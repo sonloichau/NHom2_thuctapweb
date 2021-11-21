@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8CcuLPn2ykSka6JamgoLnM7skVZRsJYyU0T0yiBYY22bSRr3X42t1bK1x15BkabNoazx468nYmKnGChra5UdXw==",
+  "dgSpecHash": "FnoJBRRuF8GGmuh/BCCqFTmHkXc67phcmzplQSjoU7EHgMj/VaK8n5/pGcTtQToKKca87s34CxqIRKlf9pvMtg==",
   "success": true,
-  "projectFilePath": "E:\\Nhom2ThuctapWep\\NHom2_thuctapweb\\DeTaiCovid\\DeTaiCovid\\DeTaiCovid.csproj",
+  "projectFilePath": "D:\\ThucTapWepCovid\\DeTaiCovid\\DeTaiCovid\\DeTaiCovid.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

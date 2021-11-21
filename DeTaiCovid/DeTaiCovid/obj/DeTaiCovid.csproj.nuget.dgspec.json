@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Nhom2ThuctapWep\\NHom2_thuctapweb\\DeTaiCovid\\DeTaiCovid\\DeTaiCovid.csproj": {}
+    "D:\\ThucTapWepCovid\\DeTaiCovid\\DeTaiCovid\\DeTaiCovid.csproj": {}
   },
   "projects": {
-    "E:\\Nhom2ThuctapWep\\NHom2_thuctapweb\\DeTaiCovid\\DeTaiCovid\\DeTaiCovid.csproj": {
+    "D:\\ThucTapWepCovid\\DeTaiCovid\\DeTaiCovid\\DeTaiCovid.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Nhom2ThuctapWep\\NHom2_thuctapweb\\DeTaiCovid\\DeTaiCovid\\DeTaiCovid.csproj",
+        "projectUniqueName": "D:\\ThucTapWepCovid\\DeTaiCovid\\DeTaiCovid\\DeTaiCovid.csproj",
         "projectName": "DeTaiCovid",
-        "projectPath": "E:\\Nhom2ThuctapWep\\NHom2_thuctapweb\\DeTaiCovid\\DeTaiCovid\\DeTaiCovid.csproj",
+        "projectPath": "D:\\ThucTapWepCovid\\DeTaiCovid\\DeTaiCovid\\DeTaiCovid.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "E:\\Nhom2ThuctapWep\\NHom2_thuctapweb\\DeTaiCovid\\DeTaiCovid\\obj\\",
+        "outputPath": "D:\\ThucTapWepCovid\\DeTaiCovid\\DeTaiCovid\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

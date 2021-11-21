@@ -43,5 +43,33 @@ namespace DeTaiCovid.API
 
             }
         }
+        [HttpPut]
+        public IActionResult SuaBaiViet(BaiViet baiviet)
+        {
+            bool check = BaiVietService.SuaBaiViet(baiviet);
+            if (check == true)
+            {
+                return Ok($"sửa bài viết  {baiviet.BaiVietId}   thành công");
+            }
+            else
+            {
+                return BadRequest($"Sửa  bài viết  {baiviet.BaiVietId} Thất bại");
+
+            }
+        }
+        [HttpDelete]
+        public IActionResult XoaBaiViet(BaiViet baiViet)
+        {
+            bool check = BaiVietService.XoaBaiViet(baiViet);
+            if (check == true)
+            {
+                return Ok($"xóa bài viêt {baiViet.BaiVietId}  thành công");
+            }
+            else
+            {
+                return BadRequest($"xóa bài viết  {baiViet.BaiVietId}  Thất bại");
+
+            }
+        }
     }
 }

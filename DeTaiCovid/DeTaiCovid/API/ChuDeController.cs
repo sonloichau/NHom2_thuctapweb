@@ -11,6 +11,5 @@ namespace DeTaiCovid.API
     [ApiController]
     public class ChuDeController : ControllerBase
     {
-
     }
 }

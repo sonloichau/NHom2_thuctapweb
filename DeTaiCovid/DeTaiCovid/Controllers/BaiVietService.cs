@@ -56,6 +56,25 @@ namespace DeTaiCovid.Controllers
             }
 
         }
+        public bool XoaBaiViet(BaiViet hocsinh)
+        {
+
+            BaiViet CurrentBaiViet = DbContext.BaiViets.SingleOrDefault(x => x.BaiVietId == hocsinh.BaiVietId);
+            ChuDe currentChuDe = DbContext.ChuDes.SingleOrDefault(x => x.ChuDeid == hocsinh.ChuDeid);
+            if (CurrentBaiViet == null)
+            {
+                return false;
+            }
+            else
+            {
+                DbContext.Remove(CurrentBaiViet);
+                DbContext.SaveChanges();
+                CapNhapSoLuong(cu);
+
+                return true;
+            }
+
+        }
         public void CapNhapSoLuong(ChuDe currentChuDe)
         {
             List<BaiViet> lstChuDe = DbContext.BaiViets.ToList();
@@ -74,4 +93,3 @@ namespace DeTaiCovid.Controllers
         }
     }
 }
-//test
