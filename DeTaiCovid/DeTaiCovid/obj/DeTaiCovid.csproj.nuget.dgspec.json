@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ThucTapWepCovid\\DeTaiCovid\\DeTaiCovid\\DeTaiCovid.csproj": {}
+    "D:\\Covid19\\NHom2_thuctapweb\\DeTaiCovid\\DeTaiCovid\\DeTaiCovid.csproj": {}
   },
   "projects": {
-    "D:\\ThucTapWepCovid\\DeTaiCovid\\DeTaiCovid\\DeTaiCovid.csproj": {
+    "D:\\Covid19\\NHom2_thuctapweb\\DeTaiCovid\\DeTaiCovid\\DeTaiCovid.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ThucTapWepCovid\\DeTaiCovid\\DeTaiCovid\\DeTaiCovid.csproj",
+        "projectUniqueName": "D:\\Covid19\\NHom2_thuctapweb\\DeTaiCovid\\DeTaiCovid\\DeTaiCovid.csproj",
         "projectName": "DeTaiCovid",
-        "projectPath": "D:\\ThucTapWepCovid\\DeTaiCovid\\DeTaiCovid\\DeTaiCovid.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\ThucTapWepCovid\\DeTaiCovid\\DeTaiCovid\\obj\\",
+        "projectPath": "D:\\Covid19\\NHom2_thuctapweb\\DeTaiCovid\\DeTaiCovid\\DeTaiCovid.csproj",
+        "packagesPath": "C:\\Users\\BANI\\.nuget\\packages\\",
+        "outputPath": "D:\\Covid19\\NHom2_thuctapweb\\DeTaiCovid\\DeTaiCovid\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\BANI\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -83,7 +83,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
